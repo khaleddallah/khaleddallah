@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Khaled Dallah</h1>
 <h3 align="center">Software Engineer ** Web-Backend / Robotics **</h3>
 
-- 🔭 I’m currently working on **Web backend**
+-  I'm a backend engineer with 4 years of experience developing, implementing, and deploying algorithms and different software for **Robotics** and **Web projects**.
 
-- 🔭 I focus on **Python / Django**
+-  I currently work mainly with **Python** in the **Django** and **Flask** Frameworks, aside from **Bootstrap** and **JavaScript** as a Frontend.
 
-- 👯 I’m looking to collaborate on **Web projects / Robotics**
+- I have been responsible for developing the software of 3 commercial robots, and 11+ small/medium different projects related to web, data-collection, and games. 
+
+- I am also passionate about testing new technologies, solving different problems, and building tools that help people save time and reduce effort.
 
 
 <h3 align="left">Connect with me:</h3>
