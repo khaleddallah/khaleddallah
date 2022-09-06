@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Dallah</h1>
-<h3 align="center">Software Engineer ** Web-Backend / Robotics **</h3>
+<h3 align="center">Software Engineer (Web Backend & Robotics)</h3>
 
 -  I'm a backend engineer with 4 years of experience developing, implementing, and deploying algorithms and different software for **Robotics** and **Web projects**.
 
